@@ -1,5 +1,2 @@
 #!/bin/bash
-"The school is open!" >>school
-
-rm echo The school is open!
-The school is open!
+"The school is open!"
